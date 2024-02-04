@@ -10,7 +10,7 @@ The Installation for this script Is fairly simple:
 - Download AutoHotkey V2.0 from the [Official Site](https://www.autohotkey.com/).
 - Go to the directory where you saved the downloaded file and open the file.
 - Select the path you want to Install AutoHotkey to and the Installation mode, then click Install.
-- Download the [Latest Release](https://github.com/DBoy4Rex/-GVRP-AHK-WSP-Binds/releases/latest/) of [GVRP AHK WSP Binds](https://github.com/DBoy4Rex/-GVRP-AHK-WSP-Binds/)
+- Download the [Latest Release](https://github.com/DBoy4Rex/GVRP-AHK-WSP-Binds/releases/latest/) of [GVRP AHK WSP Binds](https://github.com/DBoy4Rex/-GVRP-AHK-WSP-Binds/)
 - Go to the directory where you downloaded GVRP AHK WSP Binds and open the file.
 - Now your set to go!
 
