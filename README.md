@@ -17,8 +17,8 @@ The Installation for this script Is fairly simple:
 ## Keybinds
 
 You need a NumPad to use this script, the reason being setting It to anything else other then NumPad might clutter your keyboard.\
-|Key|Action| Additional Notes |
-| --- | --- | | --- |
+| Key | Action | Additional Notes |
+| --- | --- | --- |
 | NumPad 0 | Exit the script. | |
 | NumPad 1 | Greeting. | Includes your Rank and Name. |
 | NumPad 2 | Request License registration and POI. | |
