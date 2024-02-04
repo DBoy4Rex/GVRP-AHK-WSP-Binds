@@ -1,7 +1,10 @@
-﻿Rank := "Trooper"
+Rank := "Trooper"
 Name := "DBoy4Rex"
 
-NumPad0::ExitApp
+NumPad0::
+	MsgBox, 048, WSP Binds.ahk Closed, This message will close In 5 seconds , 5 ;
+	ExitApp ;
+return
 NumPad1::
 	Suspend ;
 	Send /Hello I'm %Rank% %Name% with the Wisconsin State Patrol, do you know why I'm stopping you today?`n
