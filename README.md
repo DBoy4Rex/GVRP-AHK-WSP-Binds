@@ -24,6 +24,10 @@ You need a NumPad to use this script, the reason being setting It to anything el
 | NumPad 2 | Request License registration and POI. | |
 | NumPad 3 | Miranda Rights. | |
 | NumPad 4 | Free to go. | Once you turn off your lights their free to go. |
+| NumPad 5 | 10-8 | |
+| NumPad 6 | 10-6 | |
+| NumPad 7 | 10-38 | |
+| NumPad Add/+ | Panic | Submit a call and radio a panic. |
 
 Expect more keybinds In the future!
 
