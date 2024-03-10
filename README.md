@@ -1,5 +1,6 @@
 
 # GVRP AHK WSP Binds
+## Deprecated!
 
 This Is not a peace of software, merely a script for the [AutoHotkey](https://www.autohotkey.com/) software.\
 This script aims to make It easier for Wisconsin State Patrol troopers to type common phrases.
